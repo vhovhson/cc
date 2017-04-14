@@ -1,0 +1,81 @@
+img.resize {
+max-width:20%;
+   max-height:20%;
+}
+img.resize2{
+	max-width:99.9%;
+   max-height:99.9%;
+}
+img.resize3 {
+	max-width:30%;
+   max-height:30%;
+}
+.leftie, .rightie{
+	background-color: #e6e8ed;
+    border-radius: 5px;
+    text-decoration:none;
+	
+	
+}
+.leftie {
+	width: 65%;
+	
+  
+  
+  display: inline-block;
+}
+.rightie{
+	 width: 30%;
+    text-align: center;
+	vertical-align: middle;
+    float: right;
+	padding-top: 5px;
+	padding-bottom:5px;
+}
+#wrapper {
+    
+    margin: 0 auto;
+    position: relative;
+	background-color:#f2f3f4;
+	border-bottom-style: solid;
+	border-bottom-width:1.5px;
+	border-bottom-color: black;
+}
+body{
+	width:80%;
+	
+	float:center;
+	position:relative;
+	margin: 20px auto;
+	font-family:Sans-serif;
+}
+img.im1 {
+	border-radius: 5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
