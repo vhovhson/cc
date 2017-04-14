@@ -5,9 +5,9 @@
 </head>
 <body>
 <ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="development.html">Development</a></li>
-  <li><a href="about.html">About US</a></li>
+  <li><a href="index.php">Home</a></li>
+  <li><a href="development.php">Development</a></li>
+  <li><a href="about.php">About US</a></li>
   
 </ul>
 <div id="wrapper">
@@ -23,9 +23,9 @@
 	</div>
 	<div class="rightie">
 	
-	<a href="development.html" style="text-decoration:none;">Development&nbsp;&nbsp;<img class="resize" src="Coding.png" placeholder="Development Image"/></a><br/>
+	<a href="development.php" style="text-decoration:none;">Development&nbsp;&nbsp;<img class="resize" src="Coding.png" placeholder="Development Image"/></a><br/>
 	
-	<a href="about.html" style="text-decoration:none;">About &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="resize" src="about.jpg" placeholder="About Image"/></a><br/>
+	<a href="about.php" style="text-decoration:none;">About &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="resize" src="about.jpg" placeholder="About Image"/></a><br/>
 	
 	</div>
 </div>
